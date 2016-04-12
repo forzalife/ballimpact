@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Ball Impact</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="configId">1</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="player1">PLAYER 1</string>
+    <string name="player2">PLAYER 2</string>
+    <string name="table">TABLE</string>
+    <string name="line">LINE</string>
+    <string name="color">Color</string>
+    <string name="brightness">BRIGHTNESS</string>
+    <string name="p1_ball">PLAYER 1 BALL</string>
+    <string name="p2_ball">PLAYER 1 BALL</string>
+    <string name="ball_upper">BALL</string>
+    <string name="ball">Ball</string>
+    <string name="name_upper">NAME</string>
+    <string name="name">Name</string>
+    <string name="play">PLAY</string>
+    <string name="option">OPTION</string>
+    <string name="exit">EXIT</string>
+    <string name="save">SAVE</string>
+    <string name="save_success">Save data successfully</string>
+    <string name="defaults">DEFAULT</string>
+    <string name="init_value">Waiting for reading data</string>
+    <string name="save_data_message">Saving data</string>
+    <string name="p1_name_error">Player 1 name can not empty</string>
+    <string name="p2_name_error">Player 2 name can not empty</string>
+    <string name="ask_turn">Who go first?</string>
+    <string name="go">GO !</string>
+    <string name="select">Select</string>
+</resources>
